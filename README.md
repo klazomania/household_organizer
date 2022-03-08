@@ -73,7 +73,7 @@ To be completed by the group members...
 
 #### [3] Sequence Diagrams 
 <p align="justify">
-To be completed by the group members...
+![image](https://user-images.githubusercontent.com/77558389/157150102-792d9bc3-b17d-4f8a-8aa8-7008b93ad49a.png)
 </p>
 
 #### [4] Deployment Diagrams 
