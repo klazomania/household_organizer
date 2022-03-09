@@ -30,15 +30,31 @@ public class Login implements ActionListener {
 	
 	
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) {		
 		
 		if (isTest == true) {
 			user = testUserName;
 			password = testPassword;
+		}	
+		
+		buildScreen();
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		String userInput = userText.getText();
+		String passwordInput = passwordText.getText();
+		
+		
+		if (userInput.equals(user) && passwordInput.equals(password)) {
+			success.setText("Login successful!");			
 		}
-		
-		
+		else {
+			success.setText("Invalid Passowrd or Username");
+		}
+	}
+
+	public static void buildScreen() {
 		JFrame frame = new JFrame();
 		JPanel panel = new JPanel();
 		
@@ -76,21 +92,6 @@ public class Login implements ActionListener {
 		
 		
 		frame.setVisible(true);
-
-	}
-
-	@Override
-	public void actionPerformed(ActionEvent e) {
-		String userInput = userText.getText();
-		String passwordInput = passwordText.getText();
-		
-		
-		if (userInput.equals(user) && passwordInput.equals(password)) {
-			success.setText("Login successful!");			
-		}
-		else {
-			success.setText("Invalid Passowrd or Username");
-		}
 	}
 
 }
