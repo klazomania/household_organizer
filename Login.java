@@ -1,3 +1,7 @@
+/*
+
+UPDATED 04/01/2022 --> THIS CLASS IS NO LONGER FUNCTIONAL. PIVOTING TO ANDROID STUDIO
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -23,7 +27,7 @@ public class Login implements ActionListener {
 	 *  The following is for a test case. In order to test:
 	 *  	User = Sample 
 	 *  	Password = 12345 
-	 */
+	 
 	public static boolean isTest = true; // changing this to false will disable test case
 	public static String testUserName = "Sample";
 	public static String testPassword = "12345";
@@ -95,3 +99,5 @@ public class Login implements ActionListener {
 	}
 
 }
+
+*/
