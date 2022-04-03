@@ -92,6 +92,39 @@ To be completed by the group members...
 
 
 
+-----------------------
+HOUSEHOLD ORGANIZER APP
+-----------------------
+
+
+Overview of app:
+
+
+		+--------Home Screen------------+---------------+
+		|		|		|		|
+		|		|		|		|
+		|		|		|		|
+		shopping	todo		event		budget
+		list		list		calendar	tracker
+
+
+
+------------------------------------
+Basic description for each activity:
+------------------------------------
+
+	1.) Home Screen -> has four buttons that chooses which activty to go to
+
+	2.) shopping list -> create list and delete / check off items. this can be created by minorly tweaking the TODO list
+
+	3.) todo list -> we will use Greg's tasklist for this
+
+	4.) event caledar -> use googles calendar activity
+
+	5.) budget tracker -> create list with different payments. Money can be either red or green depending on if it is money paid or received
+
+
+
 
 
 
