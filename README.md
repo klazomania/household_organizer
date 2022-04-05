@@ -63,12 +63,12 @@ To be completed by the group members...
 ## UML Diagrams 
 #### [1] Use Case Diagrams
 <p align="justify">
-To be completed by the group members...
+![Use Case Diagram](https://user-images.githubusercontent.com/93623727/161656211-51da13a3-02cb-4989-8b32-25235f632d99.png)
 </p>
 
 #### [2] Class Diagrams
 <p align="justify">
-To be completed by the group members...
+![Class Diagram](https://user-images.githubusercontent.com/93623727/161656221-c84000d2-a399-42d6-bdb8-ae6e17bf4da8.png)
 </p>
 
 #### [3] Sequence Diagrams 
