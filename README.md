@@ -68,7 +68,7 @@ To be completed by the group members...
 
 #### [2] Class Diagrams
 <p align="justify">
-![Class Diagram](https://user-images.githubusercontent.com/93623727/161656221-c84000d2-a399-42d6-bdb8-ae6e17bf4da8.png)
+![Class Diagram](https://user-images.githubusercontent.com/93623727/161656854-fbb60cc4-5de1-458e-a0d3-899ab6db5a76.png)
 </p>
 
 #### [3] Sequence Diagrams 
