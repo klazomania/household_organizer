@@ -4,8 +4,8 @@
   <br> <strong>Group ID:</strong>G 05</br>
   <br> <strong>Group Members:</strong> Alex, Gregory, Sage</br>
   <br> <strong>Project Title:</strong> Household/family organizer app, enabling organization of household tasks such as grocery list visible to every member, household budget management, meetings, kids' school events etc.</br>
-  <br> <strong>Project Description:</strong>?</br>
-  <br> <strong>Application Type: </strong>?</br>
+  <br> <strong>Project Description: </strong>This is a household organizer app that was developed using agile method for our software engineering class.</br>
+  <br> <strong>Application Type:</strong> This is an android application for use on android devices.</br>
  </p>
 
 ## Executive Summary
