@@ -14,13 +14,13 @@
 Below, you will find a brief executive summary of our term project, including how the project will be relevant to end-users.
 </p>
 <p align="justify">
-To be completed by the group members...
+Condenses activities that are often spread across multiple apps or papers, down to one application, allowing for easier organization.
 </p>
 
 ## Problem Statement
 
 <p align="justify">
-To be completed by the group members...
+Families often need help staying organized and managing things like: list of chores, shopping lists, expenses, and their schedules. This app allows that to happen.
 </p>
 
 
@@ -29,7 +29,7 @@ To be completed by the group members...
 #### Iteration #1
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  User Story  | To be completed by the group members...                                                                              |
+|  User Story  | Need an application that helps me stay organized.                                                                    |
 |    AAA       | To be completed by the group members...                                                                              |
 |    BBB       | To be completed by the group members...                                                                              |
 |    CCC       | To be completed by the group members...                                                                              |
@@ -40,7 +40,7 @@ To be completed by the group members...
 #### Iteration #2
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  User Story  | To be completed by the group members...                                                                              |
+|  User Story  | Need a way to maintain a list of chores to be done, as well as a shopping list.                                      |
 |    AAA       | To be completed by the group members...                                                                              |
 |    BBB       | To be completed by the group members...                                                                              |
 |    CCC       | To be completed by the group members...                                                                              |
@@ -52,7 +52,7 @@ To be completed by the group members...
 #### Iteration #3
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  User Story  | To be completed by the group members...                                                                              |
+|  User Story  | Need to be able to keep track of my spending habits.                                                                 |
 |    AAA       | To be completed by the group members...                                                                              |
 |    BBB       | To be completed by the group members...                                                                              |
 |    CCC       | To be completed by the group members...                                                                              |
@@ -63,17 +63,31 @@ To be completed by the group members...
 ## UML Diagrams 
 #### [1] Use Case Diagrams
 <p align="justify">
-![Use Case Diagram](https://user-images.githubusercontent.com/93623727/161656211-51da13a3-02cb-4989-8b32-25235f632d99.png)
+	
+![Iteration2 Use Case](https://user-images.githubusercontent.com/93623727/165775346-53e72eea-6c61-480d-8799-404886be4379.png)  
+	
+![Iteration3 Use Case](https://user-images.githubusercontent.com/93623727/165775911-abd6980e-3fab-40bb-bc55-e1e8dc6e39e3.png)
+
 </p>
 
 #### [2] Class Diagrams
 <p align="justify">
-![Class Diagram](https://user-images.githubusercontent.com/93623727/161656854-fbb60cc4-5de1-458e-a0d3-899ab6db5a76.png)
+	
+![Iteration2 Class](https://user-images.githubusercontent.com/93623727/165776326-d189d32b-d0b7-454c-bbde-4abe5f1a0dfd.png)
+	
+![Iteration3 Class](https://user-images.githubusercontent.com/93623727/165776542-ebfc38c3-2563-4b7a-a277-cbcb7dbc18c8.png)
+	
+![Final Class Diagram](https://user-images.githubusercontent.com/93623727/165776689-5794e47c-d076-4347-91ce-6654ef37d8e6.png)
+	
+
 </p>
 
 #### [3] Sequence Diagrams 
 <p align="justify">
 ![image](https://user-images.githubusercontent.com/77558389/157150102-792d9bc3-b17d-4f8a-8aa8-7008b93ad49a.png)
+	
+![Iteration3 Sequence](https://user-images.githubusercontent.com/93623727/165777003-de6e5004-57d9-4f83-9b9a-db213d397364.png)
+
 </p>
 
 #### [4] Deployment Diagrams 
